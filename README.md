@@ -4,9 +4,45 @@ Send HTTP POST Request to http://165.227.66.86/
 
 Send JSON with the following params:
 
-Note all values are Strings
+Possible Answers for each question found here
+https://www.kaggle.com/uciml/student-alcohol-consumption
 
-Example
+###Note: Instead of Yes or No, I used 1 for yes and 0 for no
+
+###Note: all values are Strings that are case sensitive
+
+	"sex":M or F,
+	"age":Interger cast to string,
+	"famsize": LE3 or GT3,
+	"Pstatus": A or T,
+	"Medu" : Interger cast to string,
+	"Fedu" : Interger cast to string,
+	"Mjob" : teacher, health, services, at_home or other,
+	"Fjob" : teacher, health, services, at_home or other,
+	"reason": home, reputation, course or other,
+	"guardian": mother, father or other,
+	"traveltime": Interger cast to string,
+	"studytime": Interger cast to string,
+	"failures": Interger cast to string,
+	"schoolsup": Interger cast to string,
+	"famsup": Interger cast to string,
+	"paid": Interger cast to string,
+	"activities":Interger cast to string,
+	"nursery":Interger cast to string,
+	"higher":Interger cast to string,
+	"internet": Interger cast to string,
+	"romantic":Interger cast to string,
+	"famrel": Interger cast to string,
+	"freetime": Interger cast to string,
+	"goout": Interger cast to string,
+	"Dalc": Interger cast to string,
+	"Walc": Interger cast to string,
+	"health": Interger cast to string,
+	"absences": Interger cast to string,
+	"G1": Interger cast to string,
+	"G2": "Interger cast to string
+
+Example request
 
 ```
 {
