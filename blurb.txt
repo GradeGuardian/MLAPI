@@ -1,0 +1,8 @@
+Chatbot:
+Students can be open and honest about their academic struggles by talking to our personable AI counselor, desiree.
+
+Advisor Console:
+Allows school leaders to plan a recovery for their students who are at risk of droping out and get them back on track.
+
+Map:
+An realtime planing tool that allows instant prediction and forcasting for proposed education policies
