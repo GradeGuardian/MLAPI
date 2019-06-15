@@ -1,7 +1,5 @@
 # MLAPI
 
-Send HTTP POST Request to http://165.227.66.86/
-
 Send JSON with the following params:
 
 Possible Answers for each question found here
